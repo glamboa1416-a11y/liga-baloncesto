@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-liga-navy: #16275c;
+  --color-liga-ice: #e8f1fa;
+  --color-liga-brown: #b45f1b;
+}
+
+body {
+  background: #ffffff;
+  color: #111827;
+}
