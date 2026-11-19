@@ -16,7 +16,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 border-b border-gray-200 bg-white/95 backdrop-blur">
       <nav className="mx-auto flex h-28 max-w-5xl items-center gap-4 overflow-x-auto px-4">
         <Link href="/" className="mr-4 shrink-0 text-lg font-bold text-orange-600">
-          Liga de Baloncesto
+          Liga de Básquetbol de Atlacomulco
         </Link>
         {links.map(({ href, label }) => {
           const active = pathname === href || pathname.startsWith(`${href}/`);

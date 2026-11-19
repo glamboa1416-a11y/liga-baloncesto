@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <main className="mx-auto max-w-5xl px-4 py-16 text-center">
-      <h1 className="text-4xl font-bold">Liga de Baloncesto</h1>
+      <h1 className="text-4xl font-bold">Liga de Básquetbol de Atlacomulco</h1>
       <p className="mt-4 text-gray-600">
         Equipos, jugadores, partidos y estadísticas.
       </p>
